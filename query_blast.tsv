@@ -1,0 +1,116 @@
+Query ID	Accession	Identity	E-value	Query cover	Description
+g3428.t1|10	P19105.2	58.442	1.10e-63	77.92	"RecName: Full=Myosin regulatory light chain 12A	 AltName: Full=Epididymis secretory protein Li 24	 Short=HEL-S-24	 AltName: Full=MLC-2B	 AltName: Full=Myosin RLC	 AltName: Full=Myosin regulatory light chain 2	 nonsarcomeric	 AltName: Full=Myosin regulatory light chain MRLC3 [Homo sapiens]	Homo sapiens	89%	1e-63	58.44	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P19105.2?report=genbank&log$=prottop&blast_rank=1&RID=UAB6YCPX013""""	""""P19105.2"""")"""
+g3428.t1|10	P24844.4	58.442	1.32e-63	78.57	"RecName: Full=Myosin regulatory light polypeptide 9	 AltName: Full=20 kDa myosin light chain	 Short=LC20	 AltName: Full=MLC-2C	 AltName: Full=Myosin RLC	 AltName: Full=Myosin regulatory light chain 2	 smooth muscle isoform	 AltName: Full=Myosin regulatory light chain 9	 AltName: Full=Myosin regulatory light chain MRLC1 [Homo sapiens]	Homo sapiens	89%	1e-63	58.44	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P24844.4?report=genbank&log$=prottop&blast_rank=2&RID=UAB6YCPX013""""	""""P24844.4"""")"""
+g3428.t1|10	Q9CQ19.3	58.442	3.77e-63	77.92	"RecName: Full=Myosin regulatory light polypeptide 9	 AltName: Full=Myosin regulatory light chain 2	 smooth muscle isoform	 AltName: Full=Myosin regulatory light chain 9 [Mus musculus]	Mus musculus	89%	4e-63	58.44	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q9CQ19.3?report=genbank&log$=prottop&blast_rank=3&RID=UAB6YCPX013""""	""""Q9CQ19.3"""")"""
+g3428.t1|10	Q5E9E2.3	58.333	1.56e-64	77.56	"RecName: Full=Myosin regulatory light polypeptide 9	 AltName: Full=Myosin regulatory light chain 2	 smooth muscle isoform	 AltName: Full=Myosin regulatory light chain 9 [Bos taurus]	Bos taurus	90%	2e-64	58.33	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q5E9E2.3?report=genbank&log$=prottop&blast_rank=4&RID=UAB6YCPX013""""	""""Q5E9E2.3"""")"""
+g3428.t1|10	O14950.2	58.333	3.29e-64	76.92	"RecName: Full=Myosin regulatory light chain 12B	 AltName: Full=MLC-2A	 Short=MLC-2	 AltName: Full=Myosin regulatory light chain 2-B	 smooth muscle isoform	 AltName: Full=Myosin regulatory light chain 20 kDa	 Short=MLC20	 AltName: Full=Myosin regulatory light chain MRLC2	 AltName: Full=SHUJUN-1 [Homo sapiens]	Homo sapiens	90%	3e-64	58.33	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/O14950.2?report=genbank&log$=prottop&blast_rank=5&RID=UAB6YCPX013""""	""""O14950.2"""")"""
+g3428.t1|10	P24032.2	58.333	3.84e-64	77.56	"RecName: Full=Myosin regulatory light chain 2	 smooth muscle minor isoform	 Short=MLC-2	 AltName: Full=DTNB	 AltName: Full=G1	 AltName: Full=Isoform L20-B1 [Gallus gallus]	Gallus gallus	90%	4e-64	58.33	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P24032.2?report=genbank&log$=prottop&blast_rank=6&RID=UAB6YCPX013""""	""""P24032.2"""")"""
+g3428.t1|10	P40423.1	58.228	8.61e-64	75.95	"RecName: Full=Myosin regulatory light chain sqh	 AltName: Full=Myosin regulatory light chain	 nonmuscle	 Short=MRLC-C	 AltName: Full=Protein spaghetti-squash [Drosophila melanogaster]	Drosophila melanogaster	92%	9e-64	58.23	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P40423.1?report=genbank&log$=prottop&blast_rank=7&RID=UAB6YCPX013""""	""""P40423.1"""")"""
+g3428.t1|10	P02612.2	57.792	3.13e-63	78.57	"RecName: Full=Myosin regulatory light chain 2	 smooth muscle major isoform	 Short=MLC-2	 AltName: Full=DTNB	 AltName: Full=G1	 AltName: Full=Isoform L20-A [Gallus gallus]	Gallus gallus	89%	3e-63	57.79	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P02612.2?report=genbank&log$=prottop&blast_rank=8&RID=UAB6YCPX013""""	""""P02612.2"""")"""
+g3428.t1|10	A4IF97.1	57.692	1.39e-63	76.92	"RecName: Full=Myosin regulatory light chain 12B	 AltName: Full=Myosin regulatory light chain 2-B	 smooth muscle isoform	 AltName: Full=Myosin regulatory light chain 20 kDa	 Short=MLC20	 AltName: Full=Myosin regulatory light chain MRLC2 [Bos taurus]	Bos taurus	90%	1e-63	57.69	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/A4IF97.1?report=genbank&log$=prottop&blast_rank=9&RID=UAB6YCPX013""""	""""A4IF97.1"""")"""
+g3428.t1|10	P18666.3	57.692	9.98e-63	76.28	"RecName: Full=Myosin regulatory light chain 12B	 AltName: Full=Myosin RLC-B	 AltName: Full=Myosin regulatory light chain 2-B	 smooth muscle isoform	 Short=MLC-2	 AltName: Full=Myosin regulatory light chain 20 kDa	 Short=MLC20	 AltName: Full=Myosin regulatory light chain MRLC2 [Rattus norvegicus]	Rattus norvegicus	90%	1e-62	57.69	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P18666.3?report=genbank&log$=prottop&blast_rank=10&RID=UAB6YCPX013""""	""""P18666.3"""")"""
+g3428.t1|10	P13832.2	57.051	2.21e-63	76.92	"RecName: Full=Myosin regulatory light chain RLC-A	 Short=Myosin RLC-A	 AltName: Full=Myosin regulatory light chain 2-A	 smooth muscle isoform [Rattus norvegicus]	Rattus norvegicus	90%	2e-63	57.05	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P13832.2?report=genbank&log$=prottop&blast_rank=11&RID=UAB6YCPX013""""	""""P13832.2"""")"""
+g3428.t1|10	Q64122.2	56.863	8.27e-61	75.82	"RecName: Full=Myosin regulatory light polypeptide 9	 AltName: Full=Myosin regulatory light chain 2	 smooth muscle isoform	 AltName: Full=Myosin regulatory light chain 9 [Rattus norvegicus]	Rattus norvegicus	89%	8e-61	56.86	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q64122.2?report=genbank&log$=prottop&blast_rank=12&RID=UAB6YCPX013""""	""""Q64122.2"""")"""
+g3428.t1|10	Q09510.1	56.604	8.57e-65	79.87	RecName: Full=Myosin regulatory light chain
+g3428.t1|10	Q7M2V4.2	56.098	7.32e-60	73.78	"RecName: Full=Myosin regulatory light chain 2	 ventricular/cardiac muscle isoform	 Short=MLC-2	 Short=MLC-2v	 AltName: Full=Myosin light chain 2	 slow skeletal/ventricular muscle isoform	 Short=MLC-2s/v [Oryctolagus cuniculus]	Oryctolagus cuniculus	94%	7e-60	56.10	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q7M2V4.2?report=genbank&log$=prottop&blast_rank=14&RID=UAB6YCPX013""""	""""Q7M2V4.2"""")"""
+g3428.t1|10	Q02045.1	55.814	6.71e-61	73.84	RecName: Full=Myosin light chain 5
+g3428.t1|10	P10916.3	55.488	5.14e-58	72.56	"RecName: Full=Myosin regulatory light chain 2	 ventricular/cardiac muscle isoform	 Short=MLC-2	 Short=MLC-2v	 AltName: Full=Cardiac myosin light chain 2	 AltName: Full=Myosin light chain 2	 slow skeletal/ventricular muscle isoform	 Short=MLC-2s/v	 AltName: Full=Ventricular myosin light chain 2 [Homo sapiens]	Homo sapiens	94%	5e-58	55.49	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P10916.3?report=genbank&log$=prottop&blast_rank=16&RID=UAB6YCPX013""""	""""P10916.3"""")"""
+g3428.t1|10	P41691.2	55.233	1.45e-59	72.67	RecName: Full=Myosin light chain 5
+g3428.t1|10	P08733.2	54.268	3.82e-58	73.17	"RecName: Full=Myosin regulatory light chain 2	 ventricular/cardiac muscle isoform	 Short=MLC-2	 Short=MLC-2v	 AltName: Full=Myosin light chain 2	 slow skeletal/ventricular muscle isoform	 Short=MLC-2s/v [Rattus norvegicus]	Rattus norvegicus	94%	4e-58	54.27	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P08733.2?report=genbank&log$=prottop&blast_rank=18&RID=UAB6YCPX013""""	""""P08733.2"""")"""
+g3428.t1|10	P51667.3	54.268	6.25e-58	72.56	"RecName: Full=Myosin regulatory light chain 2	 ventricular/cardiac muscle isoform	 Short=MLC-2	 Short=MLC-2v	 AltName: Full=Myosin light chain 2	 slow skeletal/ventricular muscle isoform	 Short=MLC-2s/v [Mus musculus]	Mus musculus	94%	6e-58	54.27	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P51667.3?report=genbank&log$=prottop&blast_rank=19&RID=UAB6YCPX013""""	""""P51667.3"""")"""
+g3428.t1|10	Q3SZE5.1	54.268	2.32e-57	72.56	"RecName: Full=Myosin regulatory light chain 2	 ventricular/cardiac muscle isoform	 Short=MLC-2	 Short=MLC-2v	 AltName: Full=Myosin light chain 2	 slow skeletal/ventricular muscle isoform	 Short=MLC-2s/v [Bos taurus]	Bos taurus	94%	2e-57	54.27	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q3SZE5.1?report=genbank&log$=prottop&blast_rank=20&RID=UAB6YCPX013""""	""""Q3SZE5.1"""")"""
+g3428.t1|10	P02610.2	54.268	3.78e-55	71.95	"RecName: Full=Myosin regulatory light chain 2A	 cardiac muscle isoform	 Short=G2	 Short=MLC-2A [Gallus gallus]	Gallus gallus	94%	4e-55	54.27	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P02610.2?report=genbank&log$=prottop&blast_rank=21&RID=UAB6YCPX013""""	""""P02610.2"""")"""
+g3428.t1|10	P04113.1	53.459	7.70e-56	71.07	"RecName: Full=Myosin regulatory light chain A	 smooth adductor muscle [Mizuhopecten yessoensis]	Mizuhopecten yessoensis	92%	8e-56	53.46	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P04113.1?report=genbank&log$=prottop&blast_rank=22&RID=UAB6YCPX013""""	""""P04113.1"""")"""
+g3428.t1|10	P19626.1	52.703	7.22e-48	71.62	"RecName: Full=Myosin regulatory light chain 2 [Caenorhabditis elegans]	Caenorhabditis elegans	85%	7e-48	52.70	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P19626.1?report=genbank&log$=prottop&blast_rank=23&RID=UAB6YCPX013""""	""""P19626.1"""")"""
+g3428.t1|10	P19625.1	52.703	9.08e-48	71.62	"RecName: Full=Myosin regulatory light chain 1 [Caenorhabditis elegans]	Caenorhabditis elegans	85%	9e-48	52.70	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P19625.1?report=genbank&log$=prottop&blast_rank=24&RID=UAB6YCPX013""""	""""P19625.1"""")"""
+g3428.t1|10	P08052.1	52.344	1.53e-43	70.31	"RecName: Full=Myosin regulatory light chain LC-2	 mantle muscle	 Short=RLC [Todarodes pacificus]	Todarodes pacificus	74%	2e-43	52.34	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P08052.1?report=genbank&log$=prottop&blast_rank=25&RID=UAB6YCPX013""""	""""P08052.1"""")"""
+g3428.t1|10	P07461.1	52.288	9.08e-55	73.86	"RecName: Full=Myosin regulatory light chain	 smooth muscle [Halocynthia roretzi]	Halocynthia roretzi	88%	9e-55	52.29	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P07461.1?report=genbank&log$=prottop&blast_rank=26&RID=UAB6YCPX013""""	""""P07461.1"""")"""
+g3428.t1|10	P80164.1	50.993	2.04e-49	70.20	"RecName: Full=Myosin regulatory light chain	 striated muscle	 25 kDa isoform	 Short=LC25 [Lumbricus terrestris]	Lumbricus terrestris	88%	2e-49	50.99	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P80164.1?report=genbank&log$=prottop&blast_rank=27&RID=UAB6YCPX013""""	""""P80164.1"""")"""
+g3428.t1|10	Q62082.1	50.932	6.52e-50	71.43	"RecName: Full=Myosin regulatory light chain 10	 AltName: Full=Myosin light chain 2	 lymphocyte-specific	 AltName: Full=Precursor lymphocyte-specific regulatory light chain [Mus musculus]	Mus musculus	92%	7e-50	50.93	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q62082.1?report=genbank&log$=prottop&blast_rank=28&RID=UAB6YCPX013""""	""""Q62082.1"""")"""
+g3428.t1|10	P04112.1	50.641	5.83e-51	67.95	"RecName: Full=Myosin regulatory light chain B	 smooth adductor muscle [Mizuhopecten yessoensis]	Mizuhopecten yessoensis	91%	6e-51	50.64	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P04112.1?report=genbank&log$=prottop&blast_rank=29&RID=UAB6YCPX013""""	""""P04112.1"""")"""
+g3428.t1|10	P02611.2	50.610	9.09e-52	70.73	"RecName: Full=Myosin regulatory light chain 2B	 cardiac muscle isoform	 Short=G2	 Short=MLC-2B [Gallus gallus]	Gallus gallus	94%	9e-52	50.61	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P02611.2?report=genbank&log$=prottop&blast_rank=30&RID=UAB6YCPX013""""	""""P02611.2"""")"""
+g3428.t1|10	Q96A32.1	50.000	5.16e-48	70.00	"RecName: Full=Myosin regulatory light chain 2	 skeletal muscle isoform	 AltName: Full=Fast skeletal myosin light chain 2	 AltName: Full=MLC2B [Homo sapiens]	Homo sapiens	89%	5e-48	50.00	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q96A32.1?report=genbank&log$=prottop&blast_rank=31&RID=UAB6YCPX013""""	""""Q96A32.1"""")"""
+g3428.t1|10	P04466.2	49.693	3.49e-49	69.94	"RecName: Full=Myosin regulatory light chain 2	 skeletal muscle isoform	 AltName: Full=DTNB	 AltName: Full=Fast skeletal myosin light chain 2	 Short=G2	 Short=MLC-2 [Rattus norvegicus]	Rattus norvegicus	93%	3e-49	49.69	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P04466.2?report=genbank&log$=prottop&blast_rank=32&RID=UAB6YCPX013""""	""""P04466.2"""")"""
+g3428.t1|10	P97457.3	49.693	3.81e-49	69.94	"RecName: Full=Myosin regulatory light chain 2	 skeletal muscle isoform	 AltName: Full=Fast skeletal myosin light chain 2	 AltName: Full=MLC2F [Mus musculus]	Mus musculus	93%	4e-49	49.69	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P97457.3?report=genbank&log$=prottop&blast_rank=33&RID=UAB6YCPX013""""	""""P97457.3"""")"""
+g3428.t1|10	P02608.3	49.390	3.97e-49	70.12	"RecName: Full=Myosin regulatory light chain 2	 skeletal muscle isoform type 2	 AltName: Full=DTNB	 AltName: Full=Fast skeletal myosin light chain 2	 Short=G2	 Short=MLC-2 [Oryctolagus cuniculus]	Oryctolagus cuniculus	93%	4e-49	49.39	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P02608.3?report=genbank&log$=prottop&blast_rank=34&RID=UAB6YCPX013""""	""""P02608.3"""")"""
+g3428.t1|10	Q9QVP4.1	49.057	7.75e-50	68.55	"RecName: Full=Myosin regulatory light chain 2	 atrial isoform	 Short=MLC-2a	 Short=MLC2a	 Short=Myosin light chain 2a	 AltName: Full=Myosin regulatory light chain 7 [Mus musculus]	Mus musculus	91%	8e-50	49.06	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q9QVP4.1?report=genbank&log$=prottop&blast_rank=35&RID=UAB6YCPX013""""	""""Q9QVP4.1"""")"""
+g3428.t1|10	P24732.2	48.780	9.93e-49	70.12	"RecName: Full=Myosin regulatory light chain 2	 skeletal muscle isoform type 1	 AltName: Full=DTNB	 AltName: Full=Fast skeletal myosin light chain 2	 Short=G2	 Short=MLC-2 [Oryctolagus cuniculus]	Oryctolagus cuniculus	93%	1e-48	48.78	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P24732.2?report=genbank&log$=prottop&blast_rank=36&RID=UAB6YCPX013""""	""""P24732.2"""")"""
+g3428.t1|10	P13543.3	48.718	2.87e-47	65.38	"RecName: Full=Myosin regulatory light chain	 striated adductor muscle	 Short=R-LC [Argopecten irradians]	Argopecten irradians	91%	3e-47	48.72	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P13543.3?report=genbank&log$=prottop&blast_rank=37&RID=UAB6YCPX013""""	""""P13543.3"""")"""
+g3428.t1|10	P05963.1	48.718	5.01e-47	66.03	"RecName: Full=Myosin regulatory light chain	 striated adductor muscle [Chlamys nipponensis akazara]	Chlamys nipponensis akazara	91%	5e-47	48.72	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P05963.1?report=genbank&log$=prottop&blast_rank=38&RID=UAB6YCPX013""""	""""P05963.1"""")"""
+g3428.t1|10	F1SSF9.3	48.428	6.86e-49	68.55	"RecName: Full=Myosin regulatory light chain 2	 atrial isoform	 Short=MLC-2a	 Short=MLC2a	 Short=Myosin light chain 2a	 AltName: Full=Myosin regulatory light chain 7 [Sus scrofa]	Sus scrofa	91%	7e-49	48.43	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/F1SSF9.3?report=genbank&log$=prottop&blast_rank=39&RID=UAB6YCPX013""""	""""F1SSF9.3"""")"""
+g3428.t1|10	P02609.2	48.214	7.94e-50	70.24	"RecName: Full=Myosin regulatory light chain 2	 skeletal muscle isoform	 AltName: Full=DTNB	 AltName: Full=Fast skeletal myosin light chain 2	 Short=MLC-2	 AltName: Full=G2	 AltName: Full=LC2f [Gallus gallus]	Gallus gallus	97%	8e-50	48.21	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P02609.2?report=genbank&log$=prottop&blast_rank=40&RID=UAB6YCPX013""""	""""P02609.2"""")"""
+g3428.t1|10	Q0P571.1	48.171	1.33e-47	69.51	"RecName: Full=Myosin regulatory light chain 2	 skeletal muscle isoform	 AltName: Full=Fast skeletal myosin light chain 2	 AltName: Full=MLC2F [Bos taurus]	Bos taurus	93%	1e-47	48.17	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q0P571.1?report=genbank&log$=prottop&blast_rank=41&RID=UAB6YCPX013""""	""""Q0P571.1"""")"""
+g3428.t1|10	P05944.1	48.077	2.00e-46	66.03	"RecName: Full=Myosin regulatory light chain	 striated adductor muscle [Mizuhopecten yessoensis]	Mizuhopecten yessoensis	91%	2e-46	48.08	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/P05944.1?report=genbank&log$=prottop&blast_rank=42&RID=UAB6YCPX013""""	""""P05944.1"""")"""
+g3428.t1|10	Q01449.1	47.799	2.13e-48	68.55	"RecName: Full=Myosin regulatory light chain 2	 atrial isoform	 Short=MLC-2a	 Short=MLC2a	 Short=Myosin light chain 2a	 AltName: Full=Myosin regulatory light chain 7 [Homo sapiens]	Homo sapiens	91%	2e-48	47.80	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q01449.1?report=genbank&log$=prottop&blast_rank=43&RID=UAB6YCPX013""""	""""Q01449.1"""")"""
+g3428.t1|10	O93409.1	47.619	4.78e-48	67.86	"RecName: Full=Myosin regulatory light chain 2	 skeletal muscle isoform A	 AltName: Full=Fast skeletal myosin light chain 2 [Danio rerio]	Danio rerio	95%	5e-48	47.62	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/O93409.1?report=genbank&log$=prottop&blast_rank=44&RID=UAB6YCPX013""""	""""O93409.1"""")"""
+g3428.t1|10	Q66I73.1	47.024	6.12e-47	67.26	"RecName: Full=Myosin regulatory light chain 2	 skeletal muscle isoform B [Danio rerio]	Danio rerio	95%	6e-47	47.02	""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q66I73.1?report=genbank&log$=prottop&blast_rank=45&RID=UAB6YCPX013""""	""""Q66I73.1"""")"""
+g15484.t1|32	Q505L3.1	47.25	0.0	77	"RecName: Full=Vacuolar protein sorting-associated protein 51 homolog; AltName: Full=Protein fat-free homolog [Xenopus laevis],Xenopus laevis,590,590,77%,0.0,47.25,757,""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q505L3.1?report=genbank&log$=prottop&blast_rank=1&RID=UBF5KX6X016"""",""""Q505L3.1"""")"""
+g15484.t1|32	Q4V9Y0.1	46.53	0.0	77	"RecName: Full=Vacuolar protein sorting-associated protein 51 homolog; AltName: Full=Protein fat-free homolog [Xenopus tropicalis],Xenopus tropicalis,585,585,77%,0.0,46.53,760,""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q4V9Y0.1?report=genbank&log$=prottop&blast_rank=2&RID=UBF5KX6X016"""",""""Q4V9Y0.1"""")"""
+g15484.t1|32	Q155U0.1	45.03	0.0	78	"RecName: Full=Vacuolar protein sorting-associated protein 51 homolog; AltName: Full=Protein fat-free [Danio rerio],Danio rerio,592,592,78%,0.0,45.03,827,""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q155U0.1?report=genbank&log$=prottop&blast_rank=3&RID=UBF5KX6X016"""",""""Q155U0.1"""")"""
+g15484.t1|32	Q3UVL4.2	44.71	0.0	77	"RecName: Full=Vacuolar protein sorting-associated protein 51 homolog; AltName: Full=Protein fat-free homolog [Mus musculus],Mus musculus,557,557,77%,0.0,44.71,782,""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q3UVL4.2?report=genbank&log$=prottop&blast_rank=4&RID=UBF5KX6X016"""",""""Q3UVL4.2"""")"""
+g15484.t1|32	A6QQ47.1	44.57	0.0	77	"RecName: Full=Vacuolar protein sorting-associated protein 51 homolog; AltName: Full=Protein fat-free homolog [Bos taurus],Bos taurus,560,560,77%,0.0,44.57,781,""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/A6QQ47.1?report=genbank&log$=prottop&blast_rank=5&RID=UBF5KX6X016"""",""""A6QQ47.1"""")"""
+g15484.t1|32	Q9UID3.2	44.43	0.0	77	"RecName: Full=Vacuolar protein sorting-associated protein 51 homolog; AltName: Full=Another new gene 2 protein; AltName: Full=Protein fat-free homolog [Homo sapiens],Homo sapiens,556,556,77%,0.0,44.43,782,""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q9UID3.2?report=genbank&log$=prottop&blast_rank=6&RID=UBF5KX6X016"""",""""Q9UID3.2"""")"""
+g15484.t1|32	Q5ZJ25.1	43.53	2.00e-150	77	"RecName: Full=Vacuolar protein sorting-associated protein 51 homolog; AltName: Full=Protein fat-free homolog [Gallus gallus],Gallus gallus,466,466,78%,2e-150,43.53,787,""=HYPERLINK(""""https://www.ncbi.nlm.nih.gov/protein/Q5ZJ25.1?report=genbank&log$=prottop&blast_rank=7&RID=UBF5KX6X016"""",""""Q5ZJ25.1"""")"""
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+ERROR:  500 Server Error 					
+					
+CCgiResponse::WriteHeader() -- called more than once					
